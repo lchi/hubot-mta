@@ -67,6 +67,6 @@ mta = (response) ->
 
             response.send response_string
 
-            status_text = striptags(line.text).replace(/(&nbsp;)*\s*/g, ' ').trim()
+            status_text = striptags(line.text).replace(/(&nbsp;|\s)+/g, ' ').trim()
             if status_text
               response.send "#{status_text}"
