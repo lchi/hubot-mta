@@ -1,6 +1,6 @@
 # hubot-mta
 
-See the status of the NYC MTA.
+See the status of the NYC MTA. This is a modification of the original work found at https://github.com/github/hubot-scripts/blob/master/src/scripts/mta.coffee
 
 See [`src/mta.coffee`](src/mta.coffee) for full documentation.
 
