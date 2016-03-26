@@ -1,16 +1,16 @@
 {
   "name": "hubot-mta",
   "description": "See the status of the NYC MTA.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Lucas Chi",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-mta.git"
+    "url": "git://github.com/lchi/hubot-mta.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-mta/issues"
+    "url": "https://github.com/lchi/hubot-mta/issues"
   },
   "dependencies": {
     "striptags": "2.1.1",
